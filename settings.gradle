@@ -1,0 +1,2 @@
+rootProject.name = "SightseeingRecommendation"
+include ':app'
